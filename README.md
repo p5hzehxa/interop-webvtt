@@ -1,4 +1,4 @@
-# WebVTT Interop Investigation 2025
+# WebVTT Interop Investigation 2025-2026
 
 ## Our purpose
 

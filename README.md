@@ -13,7 +13,3 @@ The purpose of this investigation is to fix as many tests as we can, making any 
 
 Anyone! You can contribute by joining our [next meeting over Zoom](https://github.com/web-platform-tests/interop-webvtt/issues?q=is%3Aissue%20state%3Aopen%20label%3Ameeting) and filing issues.
 
-## ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧
-
-[Link to Google Sheet with WebVTT WPT data](https://docs.google.com/spreadsheets/d/1nptz6qW1oBc062QlWltwcQZyszxgJ0oX1jhnbWgQQ9E/edit?usp=sharing)
-
